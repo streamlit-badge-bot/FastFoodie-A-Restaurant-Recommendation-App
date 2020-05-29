@@ -1,4 +1,4 @@
-# FastFoodie
+# <p align = "center"> FastFoodie </p>
 The app to get you to the closest and most highly rated restaurants in 20 cities across New Jersey, New York, California, Texas, and Washington
 
 ## The development of the app had four stages:-
