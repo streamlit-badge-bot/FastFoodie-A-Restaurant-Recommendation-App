@@ -1,6 +1,9 @@
 # <p align = "center"> FastFoodie - The Restuarant Recommendation App </p>
 The app to get you to the closest and most highly rated restaurants in 20 cities across New Jersey, New York, California, Texas, and Washington
 
+<p align = "center"><img width="700" img height="400" src="https://github.com/siddh30/FastFoodie-The-Restaurant-Recommendation-App/blob/master/top_10.png"></p>
+
+
 ## The development of the app had four stages:-
 1) Data Collection - The Data needed for this app was scraped from the ***TripAdvisor Website*** and is a multilayered web scraping from 5 diffierent states and information about restaurants from 20 different cities within it.
 
@@ -15,4 +18,3 @@ The app to get you to the closest and most highly rated restaurants in 20 cities
 4) Running it from a desktop (Mac).
 
 
-<p align = "center"><img width="700" img height="400" src="https://github.com/siddh30/FastFoodie-The-Restaurant-Recommendation-App/blob/master/top_10.png"></p>
