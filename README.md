@@ -2,7 +2,7 @@
 The app to get you to the closest and most highly rated restaurants in 20 cities across New Jersey, New York, California, Texas, and Washington
 
 ## The development of the app had four stages:-
-1) Data Collection - The Data needed for this app was scraped from the ***TripAdvisor*** Website and is a multilayered web scraping from 5 diffierent states and information about restaurants from 20 different cities within it.
+1) Data Collection - The Data needed for this app was scraped from the ***TripAdvisor Website*** and is a multilayered web scraping from 5 diffierent states and information about restaurants from 20 different cities within it.
 
 2) Backend Programming - The entire backend programming has been done in python, using pandas, numpy, etc.
 
