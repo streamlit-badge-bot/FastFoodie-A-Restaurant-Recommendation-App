@@ -17,5 +17,5 @@ The app to get you to the closest and most highly rated restaurants in 20 cities
 
 <p align = "center"><img width="750" img height="450" src="https://github.com/siddh30/FastFoodie-The-Restaurant-Recommendation-App/blob/master/123-2.gif"></p>
 
-<p align = "center"><img width="750" img height="450" src="https://github.com/siddh30/FastFoodie-The-Restaurant-Recommendation-App/blob/master/123-2.gif"></p>
+<p align = "center"><img width="750" img height="450" src="https://github.com/siddh30/FastFoodie-The-Restaurant-Recommendation-App/blob/master/top_10.png"></p>
 
