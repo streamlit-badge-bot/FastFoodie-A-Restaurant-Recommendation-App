@@ -4,7 +4,7 @@ The app to get you to the closest and most highly rated restaurants in 20 cities
 <p align = "center"><img width="700" img height="400" src="https://github.com/siddh30/FastFoodie-The-Restaurant-Recommendation-App/blob/master/top_10.png"></p>
 
 
-## The development of the app had four stages
+## The development of this app inclues four stages
 1) Data Collection - The Data needed for this app was scraped from the ***TripAdvisor Website*** using a multilayered web scraping algorithm scarping features from from 20 different in Ney Jersey, New York, California, Texas & Washington.
 
 2) Backend Programming - The entire backend programming has been done in python, using pandas, numpy, etc.
@@ -16,7 +16,7 @@ The app to get you to the closest and most highly rated restaurants in 20 cities
 3) UI - The User Interface was built based on python module called Streamlit.
 
 
-## The Aim for this Project
+## The aim of this project
 ***Productionizing*** Machine Learning - This app is an example of an end-to-end pipeline in ML which provides an interactive and a easy-to-use solution to users without prior knowledge of Machine Learning & Recommender Systems to help the find the best restaurants near them based on thier rating score (ratings & no of people who have rated). 
 
 <p align = "center"><img width="700" img height="475" src="https://github.com/siddh30/FastFoodie-The-Restaurant-Recommendation-App/blob/master/Data/happy_eating.jpg"></p>
