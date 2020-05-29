@@ -5,16 +5,15 @@ The app to get you to the closest and most highly rated restaurants in 20 cities
 
 
 ## The development of the app had four stages:-
-1) Data Collection - The Data needed for this app was scraped from the ***TripAdvisor Website*** and is a multilayered web scraping from 5 diffierent states and information about restaurants from 20 different cities within it.
+1) Data Collection - The Data needed for this app was scraped from the ***TripAdvisor Website*** using a multilayered web scraping algorithm scarping features from from 20 different in Ney Jersey, New York, California, Texas & Washington.
 
 2) Backend Programming - The entire backend programming has been done in python, using pandas, numpy, etc.
 
-3) Cleaning and Organizing the data
+3) Cleaning and Organizing the data.
 
-4) Building a Recommender System 
+4) Building a Recommender System based on Weighted Content Based Filtering.  
 
-3) UI - The UI was built based on python module called Streamlit, which provides the users with a UI without having a need of an API
-
+3) UI - The UI was built based on python module called Streamlit.
 
 
 <p align = "center"><img width="700" img height="475" src="https://github.com/siddh30/FastFoodie-The-Restaurant-Recommendation-App/blob/master/Data/happy_eating.jpg"></p>
