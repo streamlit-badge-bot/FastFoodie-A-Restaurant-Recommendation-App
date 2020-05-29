@@ -16,4 +16,7 @@ The app to get you to the closest and most highly rated restaurants in 20 cities
 3) UI - The User Interface was built based on python module called Streamlit.
 
 
+## The Aim for this Project
+***Productionizing*** Machine Learning - This app is an example of an end-to-end pipeline in ML which provides an interactive and a easy-to-use solution to users without prior knowledge of Machine Learning & Recommender Systems to help the find the best restaurants near them based on thier rating score (ratings & no of people who have rated). 
+
 <p align = "center"><img width="700" img height="475" src="https://github.com/siddh30/FastFoodie-The-Restaurant-Recommendation-App/blob/master/Data/happy_eating.jpg"></p>
