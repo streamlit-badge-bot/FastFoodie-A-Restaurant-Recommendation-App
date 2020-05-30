@@ -1,6 +1,5 @@
 import streamlit as st
 from Pages import Home, bts_eda, Uber, Recommender
-import reload
 
 
 st. sidebar.image('Data/App_icon.png',use_column_width=500)
