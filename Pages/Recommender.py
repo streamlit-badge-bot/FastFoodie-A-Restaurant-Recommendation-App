@@ -107,30 +107,22 @@ def eda():
             st.markdown("### Restaurant Rating:-")
 
             #REVIEWS
-            if Reviews == '4.5':
+            if Reviews == 4.5:
                 image = Image.open('Data/Ratings/Img4.5.jpg')
                 st.image(image, use_column_width=True)
 
 
-            elif Reviews == '4':
+            elif Reviews == 4.0:
                 image = Image.open('Data/Ratings/Img4.0.jpg')
                 st.image(image, use_column_width=True)
 
 
-            elif Reviews == '5':
+            elif Reviews == 5.0:
                 image = Image.open('Data/Ratings/Img5.0.png')
                 st.image(image, use_column_width=True)
 
             else:
                 pass
-
-            # #NO OF REVIEWS
-            # No = (dataframe.at[dataframe['Name'].eq(title).idxmax(), 'No of Reviews'])
-            # if No != "Undefined Number":
-            #     st.write("This restaurant has " + No)
-
-            # else:
-            #     pass
 
 
             if 'Comments' not in dataframe.columns:
@@ -139,7 +131,7 @@ def eda():
                 comment = (dataframe.at[dataframe['Name'].eq(title).idxmax(), 'Comments'])
                 if comment != "No Comments":
                     st.markdown("### Comments:-")
-                    st.warning("- " + comment)
+                    st.warning(comment)
                 else:
                      pass
 
