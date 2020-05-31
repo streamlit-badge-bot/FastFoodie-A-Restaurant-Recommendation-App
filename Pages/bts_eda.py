@@ -102,18 +102,13 @@ def eda():
             else:
                 pass
 
-            #NO OF REVIEWS
-            No = (dataframe.at[dataframe['Name'].eq(title).idxmax(), 'No of Reviews'])
-            if No != "Undefined Number":
-                st.write("This restaurant has " + No)
-
             if 'Comments' not in dataframe.columns:
                 pass
             else:
                 comment = (dataframe.at[dataframe['Name'].eq(title).idxmax(), 'Comments'])
                 if comment != "No Comments":
                     st.markdown("### Comments:-")
-                    st.warning("- " + comment)
+                    st.warning(comment)
                 else:
                     pass
 
