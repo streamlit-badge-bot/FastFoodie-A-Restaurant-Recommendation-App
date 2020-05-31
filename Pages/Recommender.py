@@ -2,6 +2,7 @@
 import pandas as pd
 import streamlit as st
 import os
+from bokeh.models.widgets import Div
 from PIL import Image
 
 
@@ -165,16 +166,25 @@ def eda():
             url = (New_Jersey.at[New_Jersey['Name'].eq(title).idxmax(), 'Trip_advisor Url'])
             st.markdown("### The Website:-")
             if st.button("Tripadvisor Website"):
-                    os.system("open \\"+url)
+                    #js = "window.open" + "('" + url + "')"  # New tab
+                    js = "window.location.href" + " = " + "'" + url + "'"  # Current tab
+                    html = '<img src onerror="{}">'.format(js)
+                    div = Div(text=html)
+                    st.bokeh_chart(div)
 
             #MENU
             menu = (New_Jersey.at[New_Jersey['Name'].eq(title).idxmax(), 'Menu'])
             if menu != "Check The Website for a Menu":
                 st.markdown("### If You Want to Check The Menu:-")
                 if st.button("Menu"):
-                    os.system("open \\" + menu)
+                    #js = "window.open" + "('" + menu + "')" # New tab
+                    js = "window.location.href" + " = " + "'" + menu + "'"  # Current tab
+                    html = '<img src onerror="{}">'.format(js)
+                    div = Div(text=html)
+                    st.bokeh_chart(div)
             else:
                 pass
+
 
 
         image = Image.open('Data/happy_eating.jpg')
