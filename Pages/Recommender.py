@@ -124,7 +124,8 @@ def eda():
             else:
                 pass
 
-
+            
+            #COMMENTS
             if 'Comments' not in dataframe.columns:
                 pass
             else:
