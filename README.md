@@ -21,4 +21,7 @@ The app to get you to the closest and most highly rated restaurants in 20 cities
 ## The aim of this project
 ***Productionizing*** Machine Learning - This app is an example of an end-to-end pipeline in ML which provides an interactive and a easy-to-use solution to users without prior knowledge of Machine Learning & Recommender Systems, to help them find the best restaurants near them based on the restaurant's rating score. 
 
+## Link to the App
+https://fastfoodie.herokuapp.com/
+
 <p align = "center"><img width="700" img height="475" src="https://github.com/siddh30/FastFoodie-The-Restaurant-Recommendation-App/blob/master/Data/happy_eating.jpg"></p>
