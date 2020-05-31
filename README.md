@@ -13,7 +13,9 @@ The app to get you to the closest and most highly rated restaurants in 20 cities
 
 4) Building a Recommender System based on Weighted Content Based Filtering.  
 
-3) UI - The User Interface was built based on python module called Streamlit.
+5) UI - The User Interface was built based on python module called Streamlit.
+
+6) Hosting the App on Heroku
 
 
 ## The aim of this project
