@@ -7,7 +7,7 @@ st.sidebar.title("All about the App...")
 
 option = st.sidebar.radio(
     'Navigate through various Features of the App!',
-    ('Home.', 'Our List of Restaurants.','Restuarants We Recommend.','Book a Cab or Order Food with Uber.')
+    ('Home.', 'Our List of Restaurants.','Restuarants We Recommend.','Uber & Uber Eats.')
 )
 
 if option == 'Home.':
@@ -19,5 +19,8 @@ if option == 'Our List of Restaurants.':
 if option == 'Restuarants We Recommend.':
     Recommender.eda()
 
-if option == 'Book a Cab or Order Food with Uber.':
+if option == 'Uber & Uber Eats':
     Uber.funct()
+
+st.sidebar.title("")
+st. sidebar.image('Data/TripAdvisor-logo.png', use_column_width=500)
