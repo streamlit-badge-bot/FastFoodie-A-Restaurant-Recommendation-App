@@ -19,7 +19,7 @@ if option == 'Our List of Restaurants.':
 if option == 'Restuarants We Recommend.':
     Recommender.eda()
 
-if option == 'Uber & Uber Eats':
+if option == 'Uber & Uber Eats.':
     Uber.funct()
 
 st.sidebar.text("")
