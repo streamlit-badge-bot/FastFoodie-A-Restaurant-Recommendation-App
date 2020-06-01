@@ -1,5 +1,5 @@
 # <p align = "center"> FastFoodie - A Restuarant Recommendation App </p>
-The app to get you to the closest and most highly rated restaurants in 20 cities across New Jersey, New York, California, Texas, and Washington
+The app to get you to the closest and most highly rated restaurants in 20 cities across New Jersey, New York, California, Texas, and Washington.
 
 <p align = "center"><img width="700" img height="400" src="https://github.com/siddh30/FastFoodie-A-Restaurant-Recommendation-App/blob/master/Data/Food.png"></p>
 
@@ -15,7 +15,7 @@ The app to get you to the closest and most highly rated restaurants in 20 cities
 
 5) UI - The User Interface was built based on python module called Streamlit.
 
-6) Hosting the App on Heroku
+6) Hosting the App on Heroku.
 
 
 ## The aim of this project
