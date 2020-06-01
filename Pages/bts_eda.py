@@ -144,7 +144,7 @@ def eda():
             # MENU
             menu = (New_Jersey.at[New_Jersey['Name'].eq(title).idxmax(), 'Menu'])
             if menu != "Check The Website for a Menu":
-                st.markdown("### If You Want to Check The Menu:-")
+                st.markdown("### Check The Menu:-")
                 if st.button("Menu"):
                     #js = "window.open" + "('" + menu + "')"  # New tab
                     js = "window.location.href" + " = " + "'" + menu + "'"  # Current tab
