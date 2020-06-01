@@ -22,5 +22,5 @@ if option == 'Restuarants We Recommend.':
 if option == 'Uber & Uber Eats':
     Uber.funct()
 
-st.sidebar.title("")
+st.sidebar.text("")
 st. sidebar.image('Data/TripAdvisor-logo.png', use_column_width=500)
