@@ -179,7 +179,7 @@ def eda():
                 pass
 
 
-
+        st.text("")
         image = Image.open('Data/happy_eating.jpg')
         st.image(image, use_column_width=True)
 
