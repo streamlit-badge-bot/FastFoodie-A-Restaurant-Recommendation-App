@@ -6,7 +6,7 @@ st. sidebar.image('Data/App_icon.png',use_column_width=500)
 st.sidebar.title("All about the App...")
 
 option = st.sidebar.radio(
-    'Navigate through various Features of the App!',
+    'Navigate through various features of the App!',
     ('Home.', 'Our List of Restaurants.','Restuarants We Recommend.','Uber & Uber Eats.')
 )
 
