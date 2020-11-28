@@ -1,4 +1,5 @@
-# <p align = "center"> FastFoodie - A Restuarant Recommendation App </p>[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/siddh30/fastfoodie-a-restaurant-recommendation-app/Main_App.py)
+# <p align = "center"> FastFoodie - A Restuarant Recommendation App 
+</p>[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/siddh30/fastfoodie-a-restaurant-recommendation-app/Main_App.py)
 
 The app to get you to the closest and most highly rated restaurants in 20 cities across New Jersey, New York, California, Texas, and Washington.
 
