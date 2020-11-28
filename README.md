@@ -1,7 +1,7 @@
 # <p align = "left"> FastFoodie - A Restuarant Recommendation App </p></p> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/siddh30/fastfoodie-a-restaurant-recommendation-app/Main_App.py)
 The app to get you to the closest and most highly rated restaurants in 20 cities across New Jersey, New York, California, Texas, and Washington.
 
-<p align = "center"><img width="700" img height="400" src="https://github.com/siddh30/FastFoodie-A-Restaurant-Recommendation-App/blob/master/Data/Food.png"></p>
+<p align = "left"><img width="700" img height="400" src="https://github.com/siddh30/FastFoodie-A-Restaurant-Recommendation-App/blob/master/Data/Food.png"></p>
 
 
 ## The development of this app inclues four stages
@@ -25,4 +25,4 @@ The app to get you to the closest and most highly rated restaurants in 20 cities
 * Heroku Deployed - https://fastfoodie.herokuapp.com/
 * Streamlit Deployed - https://share.streamlit.io/siddh30/fastfoodie-a-restaurant-recommendation-app/Main_App.py (Currently Beta)
 
-<p align = "center"><img width="700" img height="475" src="https://github.com/siddh30/FastFoodie-The-Restaurant-Recommendation-App/blob/master/Data/happy_eating.jpg"></p>
+<p align = "left"><img width="700" img height="475" src="https://github.com/siddh30/FastFoodie-The-Restaurant-Recommendation-App/blob/master/Data/happy_eating.jpg"></p>
