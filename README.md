@@ -8,7 +8,7 @@ The app to get you to the closest and most highly rated restaurants in 20 cities
 
 
 ## The development of this app inclues four stages
-1) Data Collection - The Data needed for this app was scraped from the ***TripAdvisor Website*** using a multilayered web scraping algorithm scarping features from from 20 different in Ney Jersey, New York, California, Texas & Washington.
+1) Data Collection - The Data needed for this app was scraped from the ***TripAdvisor Website*** using a multilayered web scraping algorithm scarping features from from 20 different in Ney Jersey, New York, California, Texas & Washington. Combined dataset on Kaggle:- https://www.kaggle.com/datasets/siddharthmandgi/tripadvisor-restaurant-recommendation-data-usa
 
 2) Backend Programming - The entire backend programming has been done in python, using pandas, numpy, etc.
 
