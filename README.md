@@ -1,11 +1,11 @@
-# <p align = "center"> FastFoodie - A Restuarant Recommendation App </p> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/siddh30/fastfoodie-a-restaurant-recommendation-app/Main_App.py)
+
 The app to get you to the closest and most highly rated restaurants in 20 cities across New Jersey, New York, California, Texas, and Washington.
 
-<p align = "center"><img width="700" img height="400" src="https://github.com/siddh30/FastFoodie-A-Restaurant-Recommendation-App/blob/master/Data/Food.png"></p>
+<p align = "left"><img width="700" img height="400" src="https://github.com/siddh30/FastFoodie-A-Restaurant-Recommendation-App/blob/master/Data/Food.png"></p>
 
 
 ## The development of this app inclues four stages
-1) Data Collection - The Data needed for this app was scraped from the ***TripAdvisor Website*** using a multilayered web scraping algorithm scarping features from from 20 different in Ney Jersey, New York, California, Texas & Washington.
+1) Data Collection - The Data needed for this app was scraped from the ***TripAdvisor Website*** using a multilayered web scraping algorithm scarping features from from 20 different in Ney Jersey, New York, California, Texas & Washington. Combined dataset on Kaggle:- https://www.kaggle.com/datasets/siddharthmandgi/tripadvisor-restaurant-recommendation-data-usa
 
 2) Backend Programming - The entire backend programming has been done in python, using pandas, numpy, etc.
 
@@ -23,6 +23,6 @@ The app to get you to the closest and most highly rated restaurants in 20 cities
 
 ## Link to the App
 * Heroku Deployed - https://fastfoodie.herokuapp.com/
-* Streamlit Deployed - https://share.streamlit.io/siddh30/fastfoodie-a-restaurant-recommendation-app/Main_App.py (Currently Beta)
+<!-- * Streamlit Deployed - https://share.streamlit.io/siddh30/fastfoodie-a-restaurant-recommendation-app/Main_App.py -->
 
-<p align = "center"><img width="700" img height="475" src="https://github.com/siddh30/FastFoodie-The-Restaurant-Recommendation-App/blob/master/Data/happy_eating.jpg"></p>
+<p align = "left"><img width="700" img height="475" src="https://github.com/siddh30/FastFoodie-The-Restaurant-Recommendation-App/blob/master/Data/happy_eating.jpg"></p>
